@@ -30,3 +30,4 @@ Bonus: mozete dodati blur efekat na *overlay*.
 - https://github.com/milos1993/modal
 - https://github.com/bonadea88/Modal
 - https://github.com/b-b90/modal
+- https://github.com/betman87/Modal
