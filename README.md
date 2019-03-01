@@ -14,6 +14,6 @@ Takodje je potrebno da modal ima sledecu funkcionalnost:
 
 Savet: prekrivac treba da ima veci `z-index` nego sadrzaj stranice, a modal treba da ima veci `z-index` od prekrivaca.
 
-Bonus: mozete dodati blur efekat na overlay.
+Bonus: mozete dodati blur efekat na *overlay*.
 
 ## Radovi
