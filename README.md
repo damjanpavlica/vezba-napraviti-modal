@@ -17,3 +17,5 @@ Savet: prekrivac treba da ima veci `z-index` nego sadrzaj stranice, a modal treb
 Bonus: mozete dodati blur efekat na *overlay*.
 
 ## Radovi
+
+- https://github.com/mutko/modal-dialog
