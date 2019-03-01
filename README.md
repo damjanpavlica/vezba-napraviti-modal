@@ -10,7 +10,7 @@ Da biste napravili zeljeni prikaz, potrebno je sledece:
 
 Takodje je potrebno da modal ima sledecu funkcionalnost:
 - Otvara se pritiskom na odredjeno dugme
-- Zatvara se klikom na `x` u gornjem desnom uglu prozorceta
+- Zatvara se klikom na `x` u gornjem desnom uglu prozorceta ili klikom na *overlay*
 
 Savet: prekrivac treba da ima veci `z-index` nego sadrzaj stranice, a modal treba da ima veci `z-index` od prekrivaca.
 
